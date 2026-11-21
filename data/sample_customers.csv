@@ -1,0 +1,8 @@
+customer_id,name,email,age,signup_date,city
+1,Ada Lovelace,ada@example.com,36,2024-01-15,London
+2,Grace Hopper,grace@example.com,85,2024-02-01,New York
+3,  Katherine Johnson  ,not-an-email,101,2024-02-30,Hampton
+3,  Katherine Johnson  ,not-an-email,101,2024-02-30,Hampton
+4,Linus Torvalds,,54,2024-03-10,Helsinki
+5,,margaret@example.com,87,2024-04-12,
+
